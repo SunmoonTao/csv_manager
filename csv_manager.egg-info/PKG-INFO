@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: csv_manager
+Version: 0.1.0
+Summary: A simple Python package for managing CSV files like a database.
+Home-page: https://github.com/yourusername/csv_manager
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+
 
 # CSV Manager
 

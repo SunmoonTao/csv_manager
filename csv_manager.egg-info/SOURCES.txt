@@ -1,0 +1,9 @@
+README.md
+setup.py
+csv_manager/__init__.py
+csv_manager/manager.py
+csv_manager.egg-info/PKG-INFO
+csv_manager.egg-info/SOURCES.txt
+csv_manager.egg-info/dependency_links.txt
+csv_manager.egg-info/requires.txt
+csv_manager.egg-info/top_level.txt
